@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomizeFiles>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\pdf\comp.xml" count="0">
+        <ComponentIDs/>
+        <Files>
+            <File>js\pdf.js</File>
+        </Files>
+    </CustomizeComponent>
+</CustomizeFiles>
